@@ -1,6 +1,6 @@
 # Форма регистрации v0.1.0
 
-[Демо](https://dimukko.github.io/form)
+[Демо](https://dimukko.github.io/regex-form-validation)
 
 
 ## Поля с валидацией
