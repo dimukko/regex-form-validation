@@ -1,4 +1,4 @@
-# Форма регистрации v0.2.0
+# Форма регистрации v0.3.0
 
 [Демо](https://dimukko.github.io/regex-form-validation)
 
