@@ -49,22 +49,22 @@
 5. путь — последовательность из цифр, слешей и латинских букв, на конце которого может стоять решётка `#`;
 6. не может начинаться и заканчиваться дефисами, нижнее подчёркивание также не используется.
 
-### Валидацию проходят следующего вида url:
-http://my-site.ru
-http://my-site-netx.ru
-https://my-next-site.gov.ru
-http://www.yandex.ru
-http://www.10.10.10.10
-http://10.10.80.80
-https://my-next-site.gov.ru/next/path/trend
-http://10.10.80.80:8080/#
-http://10.10.80.80:8080/#/next/path
-http://yandex.ru:8080/#/next/path
+#### Валидацию проходят следующего вида url:
+- http://my-site.ru
+- http://my-site-netx.ru
+- https://my-next-site.gov.ru
+- http://www.yandex.ru
+- http://www.10.10.10.10
+- http://10.10.80.80
+- https://my-next-site.gov.ru/next/path/trend
+- http://10.10.80.80:8080/#
+- http://10.10.80.80:8080/#/next/path
+- http://yandex.ru:8080/#/next/path
 
-### И не проходят:
-http://a.ru
-https://my-next-site.gov.
-http://yandex.ru:2
-https://www.10.77
-http://-site.ru
-http://site-.ru
+#### И не проходят:
+- http://a.ru
+- https://my-next-site.gov.
+- http://yandex.ru:2
+- https://www.10.77
+- http://-site.ru
+- http://site-.ru
